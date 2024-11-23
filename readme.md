@@ -1,10 +1,10 @@
-# Tevinter.net
+# [Tevinter.net](https://tevinter.net)
 
 ## Summary
-[Tevinter.net](https://tevinter.net) is a fan website for BioWare's Dragon Age universe. Current focus is on Dragon Age: Origins.
+Tevinter.net is a fan website for BioWare's Dragon Age universe. Current focus is on Dragon Age: Origins.
 
-## [DA:O Party Planner](https://tevinter.net/dao/planner)
-DA:O Party planner is a tool for planning playthroughs of Dragon Age: Origins, with focus on abilities.
+## [DA:O Party Planner](https://tevinter.net/dao/planner) (coming soon)
+DA:O Party Planneris a tool for planning playthroughs of Dragon Age: Origins, with focus on abilities.
 
 ## Source code
 No current plans for providing the source code of the website because it contains game assets from BioWare.
